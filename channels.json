@@ -6208,87 +6208,6 @@
       "availability": "reachable"
     },
     {
-      "id": "etv2-ee-sd",
-      "name": "ETV 2 (720p)",
-      "logo": "https://i.imgur.com/fUjGHDa.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://sb.err.ee/live/etv2.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:40+00:00",
-          "consecutive_failures": 0
-        },
-        {
-          "url": "http://sb.err.ee/live/etv2.m3u8",
-          "source": "free_tv",
-          "origin": "free_tv",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:40+00:00",
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "etvbalbharat-in-sd",
-      "name": "ETV Bal Bharat (576p)",
-      "logo": "https://i.imgur.com/zsTxPV9.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:45+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "eureka-co-sd",
-      "name": "Eureka (1080p) [Geo-blocked]",
-      "logo": "https://i.imgur.com/WgnZPol.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "extremakidstv-cr-hd",
       "name": "Extrema Kids TV [Not 24/7]",
       "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
@@ -6385,30 +6304,6 @@
       "availability": "reachable"
     },
     {
-      "id": "fan-ru-sd",
-      "name": "FAN (1080p)",
-      "logo": "https://i.imgur.com/mDeTbaF.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Fan/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:45+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "foody-il-sd",
       "name": "Foody (1080p)",
       "logo": "https://images.open-epg.com/18748363.png",
@@ -6497,39 +6392,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "france4-fr-sd",
-      "name": "France 4",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://149.62.177.107:9999/France_4/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        },
-        {
-          "url": "http://176.65.146.100:8047/play/a074/index.m3u8",
-          "source": "free_tv",
-          "origin": "free_tv",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:45+00:00",
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "fujairahtv-ae-sd",
@@ -6628,30 +6490,6 @@
       "availability": "unverified"
     },
     {
-      "id": "geekdot-br-sd",
-      "name": "Geekdot (720p)",
-      "logo": "https://i.imgur.com/jML1u4O.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:40+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "gigglemug-us-sd",
       "name": "Giggle Mug (576p)",
       "logo": "https://i.imgur.com/NbNHJXo.png",
@@ -6700,30 +6538,6 @@
       "availability": "reachable"
     },
     {
-      "id": "gloob-br-sd",
-      "name": "Gloob (576p)",
-      "logo": "https://i.imgur.com/N1BUULh.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://45.235.0.78/Gloob/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:46+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "godstandskidsclubtv-pk-english",
       "name": "God Stands Kids Club TV",
       "logo": "https://i.imgur.com/FxDBbpz.jpeg",
@@ -6766,30 +6580,6 @@
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:30:58+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "godstandskidsclubtv-pk-chinese",
-      "name": "God Stands Kids Club TV Chinese",
-      "logo": "https://i.imgur.com/FxDBbpz.jpeg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -20422,10 +20212,10 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 805,
-    "active": 803,
-    "reachable_http": 394,
-    "multi_source": 97
+    "total": 797,
+    "active": 795,
+    "reachable_http": 392,
+    "multi_source": 95
   },
   "fetched_sources": [
     "arabic",
