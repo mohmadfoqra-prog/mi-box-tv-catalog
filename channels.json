@@ -6588,30 +6588,6 @@
       "availability": "reachable"
     },
     {
-      "id": "godstandskidsclubtv-pk-urdu",
-      "name": "God Stands Kids Club TV Urdu",
-      "logo": "https://i.imgur.com/FxDBbpz.jpeg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:41+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "godstandstv-pk-arabic",
       "name": "God Stands TV Arabic",
       "logo": "https://i.imgur.com/EO6cYUI.png",
@@ -6628,54 +6604,6 @@
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:30:58+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "goldeneaglecartoon-cn-sd",
-      "name": "Golden Eagle Cartoon (576p)",
-      "logo": "https://i.imgur.com/xfVHrKQ.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:46+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "gong-fr-sd",
-      "name": "Gong (1080p)",
-      "logo": "https://i.imgur.com/lA9UFMG.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:41+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -6702,30 +6630,6 @@
           "checked_at": "2026-11-24T13:30:58+00:00",
           "consecutive_failures": 0,
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "gopal-bhar",
-      "name": "Gopal Bhar",
-      "logo": "",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:41+00:00",
-          "consecutive_failures": 0
         }
       ],
       "active": true,
@@ -20212,9 +20116,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 797,
-    "active": 795,
-    "reachable_http": 392,
+    "total": 793,
+    "active": 791,
+    "reachable_http": 390,
     "multi_source": 95
   },
   "fetched_sources": [
