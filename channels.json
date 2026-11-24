@@ -6661,31 +6661,6 @@
       "availability": "unverified"
     },
     {
-      "id": "gulli-fr-sd",
-      "name": "Gulli",
-      "logo": "https://i.imgur.com/kqYssbW.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://99.27.51.147:8080/Gulli/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:41+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "gulligirl-ru-sd",
       "name": "Gulli Girl (720p)",
       "logo": "https://i.imgur.com/lbViDuC.png",
@@ -6904,30 +6879,6 @@
       "availability": "reachable"
     },
     {
-      "id": "hodhodfarsitv-ir-sd",
-      "name": "HodHod Farsi TV (1080p)",
-      "logo": "https://i.imgur.com/l8XMKTT.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T00:51:41+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "holyquranradio-sa-sd",
       "name": "Holy Quran Radio (1080p)",
       "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
@@ -6985,31 +6936,6 @@
       "availability": "reachable"
     },
     {
-      "id": "hop-il-sd",
-      "name": "Hop! (1080p)",
-      "logo": "https://i.imgur.com/bScuilD.png",
-      "categories": [
-        "israeli",
-        "kids"
-      ],
-      "scopes": [
-        "israeli",
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/44/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:30:59+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "hotdrama-il-sd",
       "name": "HOT Drama (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png",
@@ -7053,30 +6979,6 @@
           "checked_at": "2026-11-24T13:30:59+00:00",
           "consecutive_failures": 0,
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "hungamatv-in-sd",
-      "name": "Hungama TV (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:47+00:00",
-          "consecutive_failures": 0
         }
       ],
       "active": true,
@@ -20116,9 +20018,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 793,
-    "active": 791,
-    "reachable_http": 390,
+    "total": 789,
+    "active": 787,
+    "reachable_http": 389,
     "multi_source": 95
   },
   "fetched_sources": [
