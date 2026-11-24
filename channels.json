@@ -5629,80 +5629,6 @@
       "availability": "unverified"
     },
     {
-      "id": "disneyjunior-in-sd",
-      "name": "Disney Junior (India) (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-23T21:57:57+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "disneyjunior-ro-sd",
-      "name": "Disney Junior (Romania)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:57:56+00:00",
-          "consecutive_failures": 0,
-          "referrer": "https://cool-tv.net/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "disneyjunior-us-east",
-      "name": "Disney Junior (United States) (480p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:58:02+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "disneyxd-pl-sd",
       "name": "Disney XD (576p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
@@ -5751,30 +5677,6 @@
       "availability": "unverified"
     },
     {
-      "id": "doraemon",
-      "name": "Doraemon",
-      "logo": "",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:57:57+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "drpaltv-sa-sd",
       "name": "Dr Pal TV (720p)",
       "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Dr%20Pal%20TV.jpeg",
@@ -5799,39 +5701,6 @@
       "availability": "unverified"
     },
     {
-      "id": "drramasjang-dk-sd",
-      "name": "DR Ramasjang (720p) [Geo-blocked]",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-23T21:57:57+00:00",
-          "consecutive_failures": 0
-        },
-        {
-          "url": "https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8",
-          "source": "free_tv",
-          "origin": "free_tv",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T00:51:38+00:00",
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "drakejosh-de-dach",
       "name": "Drake & Josh",
       "logo": "https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png",
@@ -5848,30 +5717,6 @@
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "redirect_unchecked",
           "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "dreamworkschannelasia-us-sd",
-      "name": "DreamWorks Channel Asia (1080p)",
-      "logo": "",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn12.178.indevs.in/163189/dreamworks",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:44+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -5928,30 +5773,6 @@
       "availability": "suspected_unavailable"
     },
     {
-      "id": "ducktv-sk-sd",
-      "name": "ducktv (720p)",
-      "logo": "https://i.imgur.com/gRFQ35W.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/stvp-ESBC4700001GR",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "redirect_unchecked",
-          "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "ducktv-sk-hd",
       "name": "ducktv HD",
       "logo": "https://i.imgur.com/gRFQ35W.png",
@@ -5988,54 +5809,6 @@
       "streams": [
         {
           "url": "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "dumdum-br-sd",
-      "name": "DumDum (720p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "durontotv-bd-sd",
-      "name": "Duronto TV (720p)",
-      "logo": "https://i.imgur.com/gXsddRK.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "reachable",
@@ -6151,30 +5924,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "elchavotv-mx-hd",
-      "name": "El Chavo TV (720p)",
-      "logo": "https://gia.tv/streams/pptv/211465.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T00:51:39+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "elradio9090fm-eg-sd",
@@ -20673,10 +20422,10 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 815,
-    "active": 813,
-    "reachable_http": 395,
-    "multi_source": 98
+    "total": 805,
+    "active": 803,
+    "reachable_http": 394,
+    "multi_source": 97
   },
   "fetched_sources": [
     "arabic",
