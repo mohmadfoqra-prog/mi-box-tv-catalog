@@ -8759,30 +8759,6 @@
       "availability": "reachable"
     },
     {
-      "id": "mama-ru-sd",
-      "name": "Mama (576p)",
-      "logo": "https://i.imgur.com/kmMIjjf.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/79/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "manuchat-iq-sd",
       "name": "Manu Chat",
       "logo": "https://i.imgur.com/voyoljW.png",
@@ -8895,30 +8871,6 @@
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:31:02+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "maxanime-ve-sd",
-      "name": "MAX Anime (1080p)",
-      "logo": "https://i.imgur.com/Oj3hEBh.jpg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:36+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -9346,30 +9298,6 @@
       "availability": "reachable"
     },
     {
-      "id": "mcn6musicchannel-us-sd",
-      "name": "MCN6 Music Channel (1080p) [Not 24/7]",
-      "logo": "https://i.imgur.com/j6IiysJ.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "medi1tvarabic-ma-sd",
       "name": "Medi1TV Arabic (1080p)",
       "logo": "https://i.imgur.com/3YsZPY6.jpeg",
@@ -9508,30 +9436,6 @@
       "availability": "reachable"
     },
     {
-      "id": "mimitv-uz-sd",
-      "name": "MiMi TV (720p)",
-      "logo": "https://i.imgur.com/NmQglPa.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://fl.biztv.media/MiMiTV_720/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "minikacocuk-tr-sd",
       "name": "Minika Cocuk (720p)",
       "logo": "https://i.imgur.com/VCywMTv.png",
@@ -9578,89 +9482,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "minimax-hu-sd",
-      "name": "Minimax (Hungary)",
-      "logo": "https://i.imgur.com/WWOlm1x.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://88.212.15.17/live/minimax_hun/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 1,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "url": "http://141.94.193.53:80/Minimax/index.m3u8",
-          "source": "free_tv",
-          "origin": "free_tv",
-          "status": "unknown",
-          "checked_at": "2026-11-24T10:55:43+00:00",
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "minimax-pk-sd",
-      "name": "Minimax (Pakistan) (360p)",
-      "logo": "https://i.imgur.com/TJvf8vd.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "minimax-ro-sd",
-      "name": "Minimax (Romania)",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0,
-          "referrer": "https://cool-tv.net/"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "miraclechannel-se-sd",
@@ -9807,30 +9628,6 @@
       "availability": "reachable"
     },
     {
-      "id": "motu-patlu",
-      "name": "Motu Patlu",
-      "logo": "",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "moviesaction-sa-sd",
       "name": "Movies Action (1080p)",
       "logo": "https://i.imgur.com/NIVhISa.png",
@@ -9871,54 +9668,6 @@
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:31:03+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "mrbeananimated-uk-english",
-      "name": "Mr Bean Animated (1080p)",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:37+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "mrbeanliveaction-uk-sd",
-      "name": "Mr Bean Live Action (1080p)",
-      "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:37+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -10069,54 +9818,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "mult-ru-sd",
-      "name": "Mult (1080p)",
-      "logo": "https://i.imgur.com/xi351Fx.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Mult_HD/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T10:55:43+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "multimuzyka-ru-sd",
-      "name": "Mult i muzyka (576p)",
-      "logo": "https://i.imgur.com/SYt6BZP.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-24T10:55:43+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "musawachannel-ps-sd",
@@ -19704,10 +19405,10 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 776,
-    "active": 774,
-    "reachable_http": 385,
-    "multi_source": 95
+    "total": 764,
+    "active": 762,
+    "reachable_http": 380,
+    "multi_source": 94
   },
   "fetched_sources": [
     "arabic",
