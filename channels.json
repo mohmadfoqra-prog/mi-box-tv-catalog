@@ -4737,31 +4737,6 @@
       "availability": "unverified"
     },
     {
-      "id": "channel24-il-sd",
-      "name": "Channel 24 (Israel) (1080p)",
-      "logo": "https://i.imgur.com/WLs67QI.png",
-      "categories": [
-        "general",
-        "israeli"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/42/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:30:56+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "channel9-il-sd",
       "name": "Channel 9 (Israel) (1080p)",
       "logo": "https://i.imgur.com/pttM3KQ.png",
@@ -6588,31 +6563,6 @@
       "availability": "reachable"
     },
     {
-      "id": "goodlife-il-sd",
-      "name": "Good Life (576p)",
-      "logo": "https://cdn.epg.one/img2/2686.png",
-      "categories": [
-        "general",
-        "israeli"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/47/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:30:58+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "greengoldtv-in-india",
       "name": "Green Gold TV (1080p)",
       "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
@@ -6783,30 +6733,6 @@
       "availability": "reachable"
     },
     {
-      "id": "healthchannel-il-sd",
-      "name": "Health Channel (1080p)",
-      "logo": "https://cdn.epg.one/img2/2709.png",
-      "categories": [
-        "general",
-        "israeli"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://89.33.29.115:8080/Health/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-19T21:34:12+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": false,
-      "missing_cycles": 14,
-      "availability": "inactive"
-    },
-    {
       "id": "heyarnold-us-latam",
       "name": "Hey Arnold!",
       "logo": "https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png",
@@ -6910,56 +6836,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "hotdrama-il-sd",
-      "name": "HOT Drama (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png",
-      "categories": [
-        "israeli",
-        "series"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/381/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:30:59+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "hotzone-il-sd",
-      "name": "HOT Zone (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/0/00/HOT_Zone.svg/250px-HOT_Zone.svg.png",
-      "categories": [
-        "general",
-        "israeli"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/379/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:30:59+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "hyatv-eg-sd",
@@ -7789,30 +7665,6 @@
           "checked_at": "2026-11-24T13:31:01+00:00",
           "consecutive_failures": 0,
           "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "kaneducational-il-sd",
-      "name": "Kan Educational (720p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
-      "categories": [
-        "general",
-        "israeli"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/378/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:01+00:00",
-          "consecutive_failures": 0
         }
       ],
       "active": true,
@@ -17033,30 +16885,6 @@
       "availability": "unverified"
     },
     {
-      "id": "vivapremium-il-sd",
-      "name": "Viva Premium (1080p)",
-      "logo": "https://cdn.epg.one/img2/9055.png",
-      "categories": [
-        "general",
-        "israeli"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/43/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:09+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "vivatelenovelas-il-sd",
       "name": "Viva Telenovelas (1080p)",
       "logo": "https://static.g-cdn.app/streams/viva-il.png",
@@ -17284,30 +17112,6 @@
       "availability": "unverified"
     },
     {
-      "id": "yamtichoni-il-sd",
-      "name": "Yam Tichoni (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png",
-      "categories": [
-        "israeli",
-        "series"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/46/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:10+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "yementodaytv-ye-sd",
       "name": "Yemen Today TV (480p)",
       "logo": "https://i.imgur.com/8TzcJu5.png",
@@ -17325,31 +17129,6 @@
           "status": "redirect_unchecked",
           "checked_at": "2026-11-24T13:31:10+00:00",
           "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "yesmoviesaction-il-sd",
-      "name": "Yes Movies Action (1080p)",
-      "logo": "https://i.imgur.com/Bgz7p5F.png",
-      "categories": [
-        "israeli",
-        "movies"
-      ],
-      "scopes": [
-        "israeli"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/380/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:10+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
         }
       ],
       "active": true,
@@ -17449,8 +17228,8 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 683,
-    "active": 681,
+    "total": 674,
+    "active": 673,
     "reachable_http": 373,
     "multi_source": 94
   },
