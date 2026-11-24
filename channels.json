@@ -3802,54 +3802,6 @@
       "availability": "unverified"
     },
     {
-      "id": "babytv-uk-latinamerica",
-      "name": "BabyTV Latin America (1080p)",
-      "logo": "https://i.imgur.com/4BDJ5FT.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://38.44.109.41:8003/play/a0eh",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "babytv-uk-turkiye",
-      "name": "BabyTV Turkiye [Geo-blocked]",
-      "logo": "https://i.imgur.com/4BDJ5FT.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "bahraininternational-bh-sd",
       "name": "Bahrain International (720p) [Not 24/7]",
       "logo": "https://i.imgur.com/t6Lmntr.png",
@@ -4058,30 +4010,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "bbcfourcbeebies-uk-hd",
-      "name": "BBC Four/CBeebies (720p)",
-      "logo": "https://i.imgur.com/aH0PCPy.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "beinsports1-qa-mena",
@@ -4477,30 +4405,6 @@
       "availability": "unverified"
     },
     {
-      "id": "cartoonnetwork-us-east",
-      "name": "Cartoon Network (United States) (720p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "cartoonnetworkarabic-ae-sd",
       "name": "Cartoon Network Arabic",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png",
@@ -4572,30 +4476,6 @@
       "streams": [
         {
           "url": "http://92.114.85.87:8007/play/a009",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "cartoonnetworklatinamerica-us-southatlantic",
-      "name": "Cartoon Network Latin America South Atlantic (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -4681,54 +4561,6 @@
       "availability": "unverified"
     },
     {
-      "id": "cartoonitolatinamerica-us-sd",
-      "name": "Cartoonito Latin America (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://45.173.12.70:8000/play/a0hh",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "cbbc-uk-sd",
-      "name": "CBBC (720p) [Geo-blocked]",
-      "logo": "https://i.imgur.com/tk8G4CU.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "cbeebies-pl-sd",
       "name": "CBeebies (Poland) (576p)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
@@ -4741,54 +4573,6 @@
       "streams": [
         {
           "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "cbeebies-uk-sd",
-      "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "cctv14-cn-hd",
-      "name": "CCTV-14 HD (1080p)",
-      "logo": "https://i.imgur.com/c5SXW7i.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -5140,30 +4924,6 @@
       "availability": "reachable"
     },
     {
-      "id": "chithiram-in-sd",
-      "name": "Chithiram (576p)",
-      "logo": "https://i.imgur.com/xv9cWSh.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-23T21:57:55+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "christianyouthchannelcyc-us-sd",
       "name": "Christian Youth Channel CYC (1080p)",
       "logo": "https://i.imgur.com/61eV77C.png",
@@ -5219,30 +4979,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "claninternacional-es-sd",
-      "name": "Clan Internacional (1080p)",
-      "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://168.228.44.241:9999/play/a04j/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:58:00+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "cna-dz-sd",
@@ -5533,30 +5269,6 @@
       "availability": "reachable"
     },
     {
-      "id": "detvoraplus-ru-hd",
-      "name": "Detvora+ (1080p)",
-      "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:58:01+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "dijlahtv-iq-sd",
       "name": "Dijlah TV (1080p)",
       "logo": "https://i.imgur.com/kyzH3G5.png",
@@ -5771,55 +5483,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "disneychannel-in-hd",
-      "name": "Disney Channel (India) HD (1080p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:58:01+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "disneychannel-nl-sd",
-      "name": "Disney Channel (Netherlands) (360p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:57:55+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "disneychannel-pl-hd",
@@ -21253,9 +20916,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 839,
-    "active": 837,
-    "reachable_http": 399,
+    "total": 825,
+    "active": 823,
+    "reachable_http": 398,
     "multi_source": 98
   },
   "fetched_sources": [
