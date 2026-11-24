@@ -7,30 +7,6 @@
   },
   "channels": [
     {
-      "id": "13kids-cl-sd",
-      "name": "13 Kids (1080p)",
-      "logo": "https://i.imgur.com/8WJUbSD.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "2m-ma-sd",
       "name": "2M (576p)",
       "logo": "https://i.imgur.com/PJYTfHi.png",
@@ -12566,30 +12542,6 @@
       "availability": "unverified"
     },
     {
-      "id": "pogo-in-sd",
-      "name": "Pogo (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-23T21:20:23+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "polsatjimjam-pl-sd",
       "name": "Polsat JimJam (576p)",
       "logo": "https://i.imgur.com/GjppUlg.png",
@@ -12645,54 +12597,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "pooyatvplus-ir-sd",
-      "name": "Pooya TV Plus",
-      "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-23T21:20:25+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "popup-uk-sd",
-      "name": "Pop Up (1080p) [Geo-blocked]",
-      "logo": "https://i.imgur.com/GdSotmS.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-23T21:20:23+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "prime-sy-hd",
@@ -12995,30 +12899,6 @@
       "availability": "reachable"
     },
     {
-      "id": "radostmoya-ru-sd",
-      "name": "Radost Moya (576p)",
-      "logo": "https://i.imgur.com/B5FA62o.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Radost_moya/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unknown",
-          "checked_at": "2026-11-23T21:20:29+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "rajeentv-ps-sd",
       "name": "Rajeen TV (1080p) [Not 24/7]",
       "logo": "https://i.imgur.com/6Cx22ya.png",
@@ -13139,30 +13019,6 @@
       "availability": "reachable"
     },
     {
-      "id": "reinoinfantil-mz-sd",
-      "name": "Reino Infantil",
-      "logo": "https://i.imgur.com/oAygpDw.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-23T21:20:24+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "retrocrush-us-sd",
       "name": "RetroCrush (1080p)",
       "logo": "https://i.imgur.com/M40b4YI.png",
@@ -13204,31 +13060,6 @@
           "status": "reachable",
           "checked_at": "2026-11-23T21:20:25+00:00",
           "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "ring-bg-sd",
-      "name": "RING",
-      "logo": "",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://213.91.179.28:8000/play/a06e",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-23T21:20:24+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
         }
       ],
       "active": true,
@@ -13704,54 +13535,6 @@
       "availability": "reachable"
     },
     {
-      "id": "rutvkids-ru-sd",
-      "name": "RU.TV Kids (720p)",
-      "logo": "https://rutvkids.ru/brand/logo-kids.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://rutvkids.ru/live/efir/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "rugrats-de-es",
-      "name": "Rugrats (Germany)",
-      "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "rugrats-us-latam",
       "name": "Rugrats (United States)",
       "logo": "https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png",
@@ -14045,30 +13828,6 @@
       "availability": "reachable"
     },
     {
-      "id": "sbtkids-br-sd",
-      "name": "SBT Kids (1080p) [Geo-blocked]",
-      "logo": "https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "sensestv-lb-sd",
       "name": "Senses TV (1080p)",
       "logo": "https://i.imgur.com/hnTx8eK.png",
@@ -14164,30 +13923,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "shandongtvchildrenschannel-cn-sd",
-      "name": "Shandong TV Children's Channel (406p) [Geo-blocked]",
-      "logo": "https://i.imgur.com/ph7YKNa.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://livealone302.iqilu.com/iqilu/sepd.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "sharjah2-ae-sd",
@@ -14517,126 +14252,6 @@
       "streams": [
         {
           "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "solnce-ru-sd",
-      "name": "Solnce (576p)",
-      "logo": "https://i.imgur.com/HCefxaK.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Solnce/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "sonic-in-sd",
-      "name": "Sonic (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "sonictv-us-sd",
-      "name": "Sonic TV (720p)",
-      "logo": "https://i.imgur.com/TKhRlrR.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "79c26f90-3a3e-43eb-9173-1c78bbbd5013",
-      "name": "Sony ATTH",
-      "logo": "https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "sonyyay-in-sd",
-      "name": "Sony Yay! (576p)",
-      "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -16044,30 +15659,6 @@
       "availability": "reachable"
     },
     {
-      "id": "stskids-ru-sd",
-      "name": "STS kids (1080p)",
-      "logo": "https://i.imgur.com/o9kLpAL.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "sudantv-sd-sd",
       "name": "Sudan TV (360p)",
       "logo": "https://i.imgur.com/XUPAYAA.png",
@@ -16090,30 +15681,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "superhungama-in-sd",
-      "name": "Super Hungama (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "supersimplesongs-us-sd",
@@ -16236,30 +15803,6 @@
       "availability": "unverified"
     },
     {
-      "id": "supergeroi-ru-sd",
-      "name": "SuperGeroi (1080p)",
-      "logo": "https://i.imgur.com/c0zZUR1.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Malish_TV/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "svampbobfyrkant-se-se",
       "name": "SvampBob Fyrkant (720p)",
       "logo": "https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png",
@@ -16320,30 +15863,6 @@
       "streams": [
         {
           "url": "https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "sx3-es-sd",
-      "name": "SX3 (1080p) [Geo-blocked]",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -16540,79 +16059,6 @@
       "streams": [
         {
           "url": "https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "teennick-il-sd",
-      "name": "TeenNick (Israel) (406p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
-      "categories": [
-        "israeli",
-        "kids"
-      ],
-      "scopes": [
-        "israeli",
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:08+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "teennick-pl-sd",
-      "name": "TeenNick (Poland) (576i)",
-      "logo": "https://i.imgur.com/KZq73CE.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://92.114.85.87:8010/play/a009/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "teennick-us-east",
-      "name": "TeenNick (United States) (432p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -16829,78 +16275,6 @@
       "streams": [
         {
           "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "tiji-ru-sd",
-      "name": "TiJi (576p)",
-      "logo": "https://i.imgur.com/QCOUJ30.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/111/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "tinypop-uk-plus1",
-      "name": "Tiny Pop +1 (576p)",
-      "logo": "https://i.imgur.com/zCTf71x.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://92.114.85.72:8000/play/a08p",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "tntkidstv-ba-sd",
-      "name": "TNT Kids TV (288p)",
-      "logo": "https://i.imgur.com/irTDbpn.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -17137,30 +16511,6 @@
       "availability": "unverified"
     },
     {
-      "id": "totallyturtles-de-dach",
-      "name": "Totally Turtles (Germany) (720p)",
-      "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "totallyturtles-de-gb",
       "name": "Totally Turtles (Germany) GB",
       "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
@@ -17305,54 +16655,6 @@
       "availability": "unverified"
     },
     {
-      "id": "tralaladsn-ro-sd",
-      "name": "TraLaLa DSN",
-      "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "tralalatv-ro-sd",
-      "name": "TraLaLa TV",
-      "logo": "https://i.imgur.com/xJBMnjy.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "trtarabi-tr-sd",
       "name": "TRT Arabi (1080p) [Not 24/7]",
       "logo": "https://i.imgur.com/dEfI2M9.png",
@@ -17375,30 +16677,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "trtcocuk-tr-sd",
-      "name": "TRT Cocuk (1440p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "trtdiyanetcocuk-tr-sd",
@@ -17506,54 +16784,6 @@
       "availability": "unverified"
     },
     {
-      "id": "tvarberia3femije-xk-sd",
-      "name": "TV Arberia 3 Femije (720p)",
-      "logo": "https://i.imgur.com/zLRzyVS.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "tvbahoriston-tj-sd",
-      "name": "TV Bahoriston (1080p)",
-      "logo": "https://i.imgur.com/Dacai5z.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://live.teleradiocom.tj/3/3m.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "tv2-dz-sd",
       "name": "TV2 (Algeria) (1080p)",
       "logo": "https://i.imgur.com/VEb631f.png",
@@ -17576,30 +16806,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "tvcaribkidsteens-sx-sd",
-      "name": "TVCARiB Kids & Teens (720p) [Not 24/7]",
-      "logo": "https://i.imgur.com/fvGlwKo.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "tvokids-ca-sd",
@@ -17674,30 +16880,6 @@
       "availability": "unverified"
     },
     {
-      "id": "tvspinballnetwork-us-sd",
-      "name": "TVS Pinball Network (480p)",
-      "logo": "https://i.imgur.com/HHmc14i.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "unews-lb-sd",
       "name": "UNews (1080p)",
       "logo": "",
@@ -17720,54 +16902,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "suspected_unavailable"
-    },
-    {
-      "id": "unikum-ru-sd",
-      "name": "Unikum (576p)",
-      "logo": "https://i.imgur.com/kSJZjDL.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Detskiy/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "uniquetv-in-sd",
-      "name": "Unique TV (576p)",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "utv-iq-sd",
@@ -17844,31 +16978,6 @@
           "status": "unavailable",
           "checked_at": "2026-11-24T13:31:09+00:00",
           "consecutive_failures": 1
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "veronicadisneyjr-nl-sd",
-      "name": "Veronica / Disney Jr. (360p)",
-      "logo": "https://i.imgur.com/5L5TcYz.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
         }
       ],
       "active": true,
@@ -18102,30 +17211,6 @@
       "availability": "reachable"
     },
     {
-      "id": "watchitkid-us-sd",
-      "name": "Watch it KID! (720p)",
-      "logo": "https://i.imgur.com/YNx0j1b.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "wattantv-ps-sd",
       "name": "Wattan TV (720p)",
       "logo": "https://i.imgur.com/sf2A9vT.png",
@@ -18192,30 +17277,6 @@
           "checked_at": null,
           "consecutive_failures": 0,
           "referrer": "https://xtrematv.com/?p=1390"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "yaaas-uk-hd",
-      "name": "YAAAS! (720p) [Geo-blocked]",
-      "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
         }
       ],
       "active": true,
@@ -18296,30 +17357,6 @@
       "availability": "unverified"
     },
     {
-      "id": "youmancartoonchannel-cn-sd",
-      "name": "You Man Cartoon Channel (576p)",
-      "logo": "https://i.imgur.com/GZInf2W.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "zagrostv-iq-sd",
       "name": "Zagros TV (Iraq) (1080p)",
       "logo": "https://i.imgur.com/9Mspf32.png",
@@ -18377,56 +17414,6 @@
       "availability": "unverified"
     },
     {
-      "id": "zbcartoon-in-hd",
-      "name": "ZB Cartoon (1080p)",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "zoom-il-sd",
-      "name": "Zoom (Israel) (576p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/f/fb/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_ZOOM_2022.svg/1920px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_ZOOM_2022.svg.png",
-      "categories": [
-        "israeli",
-        "kids"
-      ],
-      "scopes": [
-        "israeli",
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/377/index.m3u8",
-          "source": "israeli",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:10+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "zoomoo-sg-sd",
       "name": "ZooMoo (1080p)",
       "logo": "https://i.imgur.com/ciTJrnl.png",
@@ -18462,9 +17449,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 725,
-    "active": 723,
-    "reachable_http": 375,
+    "total": 683,
+    "active": 681,
+    "reachable_http": 373,
     "multi_source": 94
   },
   "fetched_sources": [
