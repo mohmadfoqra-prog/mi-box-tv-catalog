@@ -7951,79 +7951,6 @@
       "availability": "unverified"
     },
     {
-      "id": "kika-de-sd",
-      "name": "KiKA (1080p) [Not 24/7]",
-      "logo": "https://i.imgur.com/vZdNp5S.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:36+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "kika-de-hd",
-      "name": "KiKA HD",
-      "logo": "https://i.imgur.com/vZdNp5S.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-24T10:55:36+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "kinokazka-es-sd",
-      "name": "KinoKazka (1080p)",
-      "logo": "https://i.imgur.com/y6SWpsX.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/167/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T10:55:36+00:00",
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "knessetchannel-il-sd",
       "name": "Knesset Channel (576p)",
       "logo": "https://i.imgur.com/QXB1jv8.png",
@@ -19777,9 +19704,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 779,
-    "active": 777,
-    "reachable_http": 387,
+    "total": 776,
+    "active": 774,
+    "reachable_http": 385,
     "multi_source": 95
   },
   "fetched_sources": [
