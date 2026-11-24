@@ -456,126 +456,6 @@
       "availability": "unverified"
     },
     {
-      "id": "9go-au-sydney",
-      "name": "9Go! (720p) [Geo-blocked]",
-      "logo": "https://i.imgur.com/RLijQI8.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "bd-cartoon-network",
-      "name": "[BD] Cartoon Network",
-      "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "bd-cartoon-network-hd",
-      "name": "[BD] Cartoon Network HD +",
-      "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "bd-discovery-kids",
-      "name": "[BD] Discovery Kids",
-      "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "bd-pogo",
-      "name": "[BD] POGO",
-      "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "abcentertains-au-sydney",
       "name": "ABC Entertains (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
@@ -736,30 +616,6 @@
           "source": "arabic",
           "status": "unknown",
           "checked_at": "2026-11-24T10:55:19+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "afarinbaxcha-iq-sd",
-      "name": "Afarin Baxcha (1080p)",
-      "logo": "https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
           "consecutive_failures": 0
         }
       ],
@@ -3360,30 +3216,6 @@
       "availability": "reachable"
     },
     {
-      "id": "ani-ru-sd",
-      "name": "Ani (576p)",
-      "logo": "https://i.imgur.com/i2AP0hp.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://46.32.176.50/anitv/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "animal-planet-us-east",
       "name": "Animal Planet (US East)",
       "logo": "",
@@ -3416,30 +3248,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "animationplus-us-sd",
-      "name": "Animation+ (1080p) [Geo-blocked]",
-      "logo": "https://i.imgur.com/OIFK6JB.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "animevision-es-sd",
@@ -4372,54 +4180,6 @@
       "availability": "unverified"
     },
     {
-      "id": "bbckids-us-sd",
-      "name": "BBC Kids (720p)",
-      "logo": "https://i.imgur.com/vKUD64a.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "bbcthreecbbc-uk-hd",
-      "name": "BBC Three/CBBC (720p)",
-      "logo": "https://i.imgur.com/CGXC5fp.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://193.46.58.239:8080/CBBCHD/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "beinsports1-qa-mena",
       "name": "beIN Sports 1",
       "logo": "https://i.imgur.com/Vtk2cGI.png",
@@ -4514,54 +4274,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "bilimilim-kg-sd",
-      "name": "Bilim Ilim (480p) [Not 24/7]",
-      "logo": "https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "biznetkids-id-sd",
-      "name": "Biznet Kids (1080p)",
-      "logo": "https://i.imgur.com/J5QNqJ0.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "bobesponja-de-es",
@@ -4693,39 +4405,6 @@
       "availability": "unverified"
     },
     {
-      "id": "boing-es-sd",
-      "name": "Boing (Spain)",
-      "logo": "https://i.imgur.com/nUYuCAP.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://digisat.ddns.net:4022/udp/239.0.5.177:8208",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        },
-        {
-          "url": "https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8",
-          "source": "free_tv",
-          "origin": "free_tv",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "bolajon-uz-sd",
       "name": "Bolajon (576p)",
       "logo": "https://i.imgur.com/s7o0ifu.png",
@@ -4822,30 +4501,6 @@
       "availability": "unverified"
     },
     {
-      "id": "brtvkakuchildrenschannel-cn-sd",
-      "name": "BRTV Kaku Childrens Channel",
-      "logo": "https://i.imgur.com/t8X4wPZ.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "campspoopy-us-sd",
       "name": "Camp Spoopy (576p)",
       "logo": "https://img2.static-ottera.com/prod/tg/linear_channel/logo/640x360/camp-spoopy-2021_1920-x-1080_option-5.jpg",
@@ -4882,54 +4537,6 @@
       "streams": [
         {
           "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "carousel-ru-sd",
-      "name": "Carousel (1080p)",
-      "logo": "https://i.imgur.com/4wmnx1W.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://31.148.48.15/Karusel_HD/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "carousel-ru-plus4",
-      "name": "Carousel +4 (720p)",
-      "logo": "https://i.imgur.com/4wmnx1W.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://185.37.150.46/Karusel/index.m3u8",
           "source": "kids_bd",
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
@@ -21848,10 +21455,10 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 863,
-    "active": 861,
+    "total": 847,
+    "active": 845,
     "reachable_http": 387,
-    "multi_source": 99
+    "multi_source": 98
   },
   "fetched_sources": [
     "arabic",
