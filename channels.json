@@ -9297,30 +9297,6 @@
       "availability": "reachable"
     },
     {
-      "id": "palestineedu-ps-sd",
-      "name": "Palestine Edu (1080p)",
-      "logo": "https://i.imgur.com/AwVHXyC.png",
-      "categories": [
-        "arabic",
-        "general"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
-          "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:31:06+00:00",
-          "consecutive_failures": 20
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "suspected_unavailable"
-    },
-    {
       "id": "palestinemubasher-ps-sd",
       "name": "Palestine Mubasher (1080p)",
       "logo": "https://i.imgur.com/68llVTZ.png",
@@ -9402,30 +9378,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "palestinetv-ir-sd",
-      "name": "Palestinetv (720p)",
-      "logo": "https://i.ibb.co/svrZNZTX/Palestine.png",
-      "categories": [
-        "arabic",
-        "general"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
-          "source": "arabic",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:06+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "panoramafm-sa-sd",
@@ -10568,30 +10520,6 @@
       "availability": "reachable"
     },
     {
-      "id": "qaftv-tr-sd",
-      "name": "Qaf TV (1080p)",
-      "logo": "https://i.imgur.com/hrk7Uce.png",
-      "categories": [
-        "arabic",
-        "general"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:31:06+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "qatartelevision-qa-sd",
       "name": "Qatar Television (1080p)",
       "logo": "https://i.imgur.com/N5RB4sp.png",
@@ -10953,30 +10881,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "ritmutv-kw-sd",
-      "name": "Ritmu TV",
-      "logo": "https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10",
-      "categories": [
-        "arabic",
-        "general"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8",
-          "source": "arabic",
-          "status": "unknown",
-          "checked_at": "2026-11-24T13:31:06+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "rojavatv-sy-sd",
@@ -15168,9 +15072,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 591,
-    "active": 590,
-    "reachable_http": 312,
+    "total": 587,
+    "active": 586,
+    "reachable_http": 311,
     "multi_source": 88
   },
   "fetched_sources": [
