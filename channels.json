@@ -3874,48 +3874,6 @@
       "availability": "unverified"
     },
     {
-      "id": "bbcarabic-uk-sd",
-      "name": "BBC Arabic (720p)",
-      "logo": "https://i.imgur.com/ScyTG6P.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:55+00:00",
-          "consecutive_failures": 0
-        },
-        {
-          "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
-          "source": "free_tv",
-          "origin": "adeel_arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:56+00:00",
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        },
-        {
-          "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
-          "source": "free_tv",
-          "origin": "nexonic_arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:56+00:00",
-          "consecutive_failures": 0,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "beitolabbastvchannel-iq-sd",
       "name": "BeitolAbbas TV Channel (720p)",
       "logo": "https://i.imgur.com/s8PfUQy.png",
@@ -5934,30 +5892,6 @@
       "availability": "unverified"
     },
     {
-      "id": "elyssatv-tn-hd",
-      "name": "Elyssa TV (1080p)",
-      "logo": "https://tv.elyssatv.com/logo.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://tv.elyssatv.com/live/master.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:58+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "epickids-in-digital",
       "name": "Epic Kids Digital (1080p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png",
@@ -7699,30 +7633,6 @@
       "availability": "reachable"
     },
     {
-      "id": "kolalnastv-ps-sd",
-      "name": "Kolalnas TV",
-      "logo": "https://i.imgur.com/OyMxcRG.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
-          "source": "arabic",
-          "status": "redirect_unchecked",
-          "checked_at": "2026-11-24T13:31:02+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "koogitv-eg-sd",
       "name": "Koogi TV (1080p)",
       "logo": "https://i.imgur.com/zojMTP9.png",
@@ -8164,31 +8074,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "unverified"
-    },
-    {
-      "id": "libyaalahrartv-qa-sd",
-      "name": "Libya Al Ahrar TV (1080p)",
-      "logo": "https://i.imgur.com/xkQKVGi.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
-          "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:31:02+00:00",
-          "consecutive_failures": 20,
-          "referrer": "https://player.castr.com"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "suspected_unavailable"
     },
     {
       "id": "libyaalwataniya-ly-sd",
@@ -9601,63 +9486,6 @@
       "availability": "reachable"
     },
     {
-      "id": "nabaatv-lb-sd",
-      "name": "Nabaa TV (720p) [Not 24/7]",
-      "logo": "https://i.imgur.com/p8eRgSs.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
-          "source": "arabic",
-          "status": "unknown",
-          "checked_at": "2026-11-24T13:31:09+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "nablustv-ps-sd",
-      "name": "Nablus TV (720p) [Not 24/7]",
-      "logo": "https://i.imgur.com/GoLhaDK.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
-          "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:31:04+00:00",
-          "consecutive_failures": 20
-        },
-        {
-          "url": "https://htvint.mada.ps/nabluslive/index.m3u8",
-          "source": "free_tv",
-          "origin": "sorted_arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:31:04+00:00",
-          "consecutive_failures": 2,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "naruto-us-brazil",
       "name": "Naruto Brazil",
       "logo": "https://i.imgur.com/M8X3Kvc.png",
@@ -9785,30 +9613,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "unverified"
-    },
-    {
-      "id": "newsoftheworld-us-arabic",
-      "name": "News of the World Arabic (720p)",
-      "logo": "https://i.imgur.com/MfyRQCs.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://live.nowtelly.com/now_arabic/live/playlist.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:31:04+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
     },
     {
       "id": "nickjr-pl-sd",
@@ -13354,30 +13158,6 @@
       "availability": "reachable"
     },
     {
-      "id": "sahara24-mr-hd",
-      "name": "Sahara 24 (1080p)",
-      "logo": "https://i.imgur.com/pnzWYwT.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
-          "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:31:07+00:00",
-          "consecutive_failures": 2
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "samarratv-iq-sd",
       "name": "Samarra TV (720p)",
       "logo": "https://i.imgur.com/7uQoIXi.png",
@@ -16603,30 +16383,6 @@
       "availability": "unverified"
     },
     {
-      "id": "unews-lb-sd",
-      "name": "UNews (1080p)",
-      "logo": "",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
-          "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:31:09+00:00",
-          "consecutive_failures": 13
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "suspected_unavailable"
-    },
-    {
       "id": "utv-iq-sd",
       "name": "UTV (Iraq) (1080p)",
       "logo": "https://i.imgur.com/9qFHjnu.png",
@@ -17099,10 +16855,10 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 669,
-    "active": 668,
-    "reachable_http": 371,
-    "multi_source": 93
+    "total": 660,
+    "active": 659,
+    "reachable_http": 368,
+    "multi_source": 91
   },
   "fetched_sources": [
     "arabic",
