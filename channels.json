@@ -1231,30 +1231,6 @@
       "availability": "reachable"
     },
     {
-      "id": "aljanoubtv-iq-sd",
-      "name": "Al Janoub TV",
-      "logo": "https://i.imgur.com/rxDh6W1.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://live.alissahost.net/hls/test.m3u8",
-          "source": "arabic",
-          "status": "unknown",
-          "checked_at": "2026-11-24T13:30:51+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "aljazeera-qa-arabic",
       "name": "Al Jazeera (1080p)",
       "logo": "https://i.imgur.com/7bRVpnu.png",
@@ -1529,54 +1505,6 @@
       "streams": [
         {
           "url": "https://starmenajo.com/hls/almasar/index.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:51+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "almashhad-ae-sd",
-      "name": "Al Mashhad (1080p)",
-      "logo": "https://i.imgur.com/6G6fxs5.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:51+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "almasirah-ye-sd",
-      "name": "Al Masirah (720p) [Not 24/7]",
-      "logo": "https://i.imgur.com/V055t5e.png",
-      "categories": [
-        "arabic",
-        "news"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:30:51+00:00",
@@ -3988,30 +3916,6 @@
       "availability": "reachable"
     },
     {
-      "id": "beinsports1-qa-mena",
-      "name": "beIN Sports 1",
-      "logo": "https://i.imgur.com/Vtk2cGI.png",
-      "categories": [
-        "arabic",
-        "sports"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://vg162.adcdsd123321.shop/7.m3u8",
-          "source": "arabic",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:30:55+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "beitolabbastvchannel-iq-sd",
       "name": "BeitolAbbas TV Channel (720p)",
       "logo": "https://i.imgur.com/s8PfUQy.png",
@@ -5956,39 +5860,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "elheddaftv-dz-sd",
-      "name": "El-Heddaf TV (1080p)",
-      "logo": "https://i.imgur.com/cDkIDIA.png",
-      "categories": [
-        "arabic",
-        "sports"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-          "source": "arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:30:58+00:00",
-          "consecutive_failures": 20
-        },
-        {
-          "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
-          "source": "free_tv",
-          "origin": "sorted_arabic",
-          "status": "unavailable",
-          "checked_at": "2026-11-24T13:30:58+00:00",
-          "consecutive_failures": 2,
-          "stale_cycles": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "elbesharagtv-us-sd",
@@ -17228,10 +17099,10 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 674,
-    "active": 673,
-    "reachable_http": 373,
-    "multi_source": 94
+    "total": 669,
+    "active": 668,
+    "reachable_http": 371,
+    "multi_source": 93
   },
   "fetched_sources": [
     "arabic",
