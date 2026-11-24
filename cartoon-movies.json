@@ -152,27 +152,6 @@
       "rights_checked": true
     },
     {
-      "id": "archive-popeyealibabarestored512kb",
-      "title": "Popeye the Sailor: Meets Ali Baba's Forty Thieves",
-      "original": "Popeye the Sailor: Meets Ali Baba's Forty Thieves",
-      "description": "",
-      "year": 1937,
-      "duration": 0,
-      "categories": [
-        "classic",
-        "short"
-      ],
-      "url": "https://archive.org/download/PopeyeAliBabaRestored512kb/PopeyeAliBabaRestored_512kb.mp4",
-      "poster": "https://archive.org/services/img/PopeyeAliBabaRestored512kb",
-      "license": "USER PROVIDED",
-      "source": "bitinfinitus/public-domain-catalog + Internet Archive",
-      "attribution": "bitinfinitus/public-domain-catalog + Internet Archive",
-      "audio": "الإنجليزية",
-      "rights_basis": "user-attested",
-      "av_checked": true,
-      "rights_checked": true
-    },
-    {
       "id": "archive-popeye-the-sailor-meets-aladdin-and-his-wonderful-lamp",
       "title": "Popeye the Sailor: Aladdin and His Wonderful Lamp",
       "original": "Popeye the Sailor: Aladdin and His Wonderful Lamp",
@@ -227,27 +206,6 @@
       ],
       "url": "https://archive.org/download/SpookySwabs/SpookySwabs.mp4",
       "poster": "https://archive.org/services/img/SpookySwabs",
-      "license": "USER PROVIDED",
-      "source": "bitinfinitus/public-domain-catalog + Internet Archive",
-      "attribution": "bitinfinitus/public-domain-catalog + Internet Archive",
-      "audio": "الإنجليزية",
-      "rights_basis": "user-attested",
-      "av_checked": true,
-      "rights_checked": true
-    },
-    {
-      "id": "archive-popeye-the-sailor-ancient-fantasy",
-      "title": "Popeye: Ancient Fistory",
-      "original": "Popeye: Ancient Fistory",
-      "description": "",
-      "year": 1953,
-      "duration": 0,
-      "categories": [
-        "classic",
-        "short"
-      ],
-      "url": "https://archive.org/download/popeye_the_sailor_ancient_fantasy/popeye_the_sailor_ancient_fantasy_512kb.mp4",
-      "poster": "https://archive.org/services/img/popeye_the_sailor_ancient_fantasy",
       "license": "USER PROVIDED",
       "source": "bitinfinitus/public-domain-catalog + Internet Archive",
       "attribution": "bitinfinitus/public-domain-catalog + Internet Archive",
