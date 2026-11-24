@@ -10950,30 +10950,6 @@
       "availability": "unverified"
     },
     {
-      "id": "o-ru-sd",
-      "name": "O! (576p)",
-      "logo": "https://i.imgur.com/pDc665V.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/60/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "restricted_or_unknown",
-          "checked_at": "2026-11-24T13:31:14+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "oggyeasbaratastontas-us-br",
       "name": "Oggy e as Baratas Tontas",
       "logo": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
@@ -11313,78 +11289,6 @@
       "availability": "unverified"
     },
     {
-      "id": "onepiece-us-fr",
-      "name": "One Piece FR",
-      "logo": "https://i.imgur.com/XsvbAWR.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "onepiece-us-latam",
-      "name": "One Piece LatAm",
-      "logo": "https://i.imgur.com/XsvbAWR.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "onepiece-us-spain",
-      "name": "One Piece Spain",
-      "logo": "https://i.imgur.com/XsvbAWR.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "onetv-lb-sd",
       "name": "One TV (720p) [Not 24/7]",
       "logo": "https://i.imgur.com/O4DuR9G.png",
@@ -11431,30 +11335,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "reachable"
-    },
-    {
-      "id": "orfkids-at-sd",
-      "name": "ORF Kids (720p)",
-      "logo": "https://i.imgur.com/Zxuah2b.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
     },
     {
       "id": "otv-lb-sd",
@@ -11885,54 +11765,6 @@
       "availability": "unverified"
     },
     {
-      "id": "persianateen-fr-sd",
-      "name": "Persiana Teen",
-      "logo": "",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://kphls.persiana.live/hls/stream.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "pingviins-lv-sd",
-      "name": "Pingviins (720p)",
-      "logo": "https://i.imgur.com/hfXoJIY.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "pixeltv-ua-sd",
       "name": "Pixel TV (1080p)",
       "logo": "https://i.imgur.com/ECro8Ah.png",
@@ -11966,55 +11798,6 @@
       "availability": "unverified"
     },
     {
-      "id": "placid-us-easthd",
-      "name": "Placid (1080p) [Not 24/7]",
-      "logo": "https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://toy.vcdn.fyi/placid/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "plusplus-ua-sd",
-      "name": "PLUSPLUS (1080p)",
-      "logo": "https://i.imgur.com/9bPhStm.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "http://stream.mcquack.net/339/index.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0,
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "plutotvadultanimation-de-dach",
       "name": "Pluto TV Adult Animation",
       "logo": "https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png",
@@ -12031,78 +11814,6 @@
           "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
           "status": "unchecked",
           "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "plutotvanimation-de-gb",
-      "name": "Pluto TV Animation",
-      "logo": "https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "unchecked",
-          "checked_at": null,
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "plutotvanime-us-us",
-      "name": "Pluto TV Anime",
-      "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "redirect_unchecked",
-          "checked_at": "2026-11-23T21:20:22+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
-      "id": "plutotvanimeacao-us-br",
-      "name": "Pluto TV Anime Acao",
-      "logo": "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "redirect_unchecked",
-          "checked_at": "2026-11-23T21:20:22+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -12711,30 +12422,6 @@
       "availability": "unverified"
     },
     {
-      "id": "plutotvteen-de-it",
-      "name": "Pluto TV Teen IT (720p)",
-      "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "redirect_unchecked",
-          "checked_at": "2026-11-23T21:20:23+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "plutotvtegnefilm-se-dk",
       "name": "Pluto TV Tegnefilm (720p)",
       "logo": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
@@ -12877,30 +12564,6 @@
       "active": true,
       "missing_cycles": 0,
       "availability": "unverified"
-    },
-    {
-      "id": "pocketwatch-us-sd",
-      "name": "pocket.watch (1080p)",
-      "logo": "https://i.imgur.com/T0V90Lz.png",
-      "categories": [
-        "kids"
-      ],
-      "scopes": [
-        "kids_bd"
-      ],
-      "streams": [
-        {
-          "url": "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8",
-          "source": "kids_bd",
-          "origin": "dhrubonai/Free-BD-IPTV/cartoon.m3u",
-          "status": "reachable",
-          "checked_at": "2026-11-23T21:20:23+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
     },
     {
       "id": "pogo-in-sd",
@@ -18799,9 +18462,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 739,
-    "active": 737,
-    "reachable_http": 376,
+    "total": 725,
+    "active": 723,
+    "reachable_http": 375,
     "multi_source": 94
   },
   "fetched_sources": [
