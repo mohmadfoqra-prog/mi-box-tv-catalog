@@ -456,30 +456,6 @@
       "availability": "unverified"
     },
     {
-      "id": "abdulmajeedabdullah-sa-sd",
-      "name": "Abdulmajeed Abdullah (1080p)",
-      "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
-      "categories": [
-        "arabic",
-        "music"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:30:49+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "abnsat-iq-sd",
       "name": "ABNsat (720p)",
       "logo": "https://i.imgur.com/WhPlJzh.jpeg",
@@ -8391,30 +8367,6 @@
       "availability": "reachable"
     },
     {
-      "id": "marinatv-kw-sd",
-      "name": "Marina TV (1080p)",
-      "logo": "https://i.imgur.com/F2PzEaw.png",
-      "categories": [
-        "arabic",
-        "music"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
-          "source": "arabic",
-          "status": "unknown",
-          "checked_at": "2026-11-24T13:31:02+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "unverified"
-    },
-    {
       "id": "marjaeyattvarabic-iq-sd",
       "name": "Marjaeyat TV Arabic (1080p)",
       "logo": "https://i.imgur.com/LsYYkUI.png",
@@ -8972,30 +8924,6 @@
       "availability": "reachable"
     },
     {
-      "id": "melodyfm-jo-sd",
-      "name": "Melody FM (720p) [Not 24/7]",
-      "logo": "https://i.imgur.com/J8omcNz.png",
-      "categories": [
-        "arabic",
-        "music"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:31:03+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
       "id": "mfm-lb-hd",
       "name": "mfm (1080p)",
       "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
@@ -9132,30 +9060,6 @@
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:31:06+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "mohammedabdo-sa-sd",
-      "name": "Mohammed Abdo (1080p)",
-      "logo": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
-      "categories": [
-        "arabic",
-        "music"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:31:03+00:00",
           "consecutive_failures": 0
         }
       ],
@@ -12463,30 +12367,6 @@
       "streams": [
         {
           "url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8",
-          "source": "arabic",
-          "status": "reachable",
-          "checked_at": "2026-11-24T13:31:06+00:00",
-          "consecutive_failures": 0
-        }
-      ],
-      "active": true,
-      "missing_cycles": 0,
-      "availability": "reachable"
-    },
-    {
-      "id": "rashidalmajed-sa-sd",
-      "name": "Rashid AlMajed (1080p)",
-      "logo": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
-      "categories": [
-        "arabic",
-        "music"
-      ],
-      "scopes": [
-        "arabic"
-      ],
-      "streams": [
-        {
-          "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
           "source": "arabic",
           "status": "reachable",
           "checked_at": "2026-11-24T13:31:06+00:00",
@@ -16855,9 +16735,9 @@
   "kids_archived_unplayable_count": 24,
   "kids_quarantined_count": 58,
   "summary": {
-    "total": 660,
-    "active": 659,
-    "reachable_http": 368,
+    "total": 655,
+    "active": 654,
+    "reachable_http": 364,
     "multi_source": 91
   },
   "fetched_sources": [
